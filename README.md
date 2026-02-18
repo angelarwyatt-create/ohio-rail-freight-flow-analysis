@@ -11,7 +11,7 @@ This project analyzes inbound rail freight flows into Ohio using publicly availa
 - FAF 5.7.1 public datasets
 
 ### Dashboard
-[Link to Tableau Public dashboard here]
+[[Link to Tableau Public dashboard here]](https://public.tableau.com/views/Top10STCCbyRailwithDestinationOhio2024SourceBureauofTransportationStatistics/Top10STCCbyRailwithDestinationOhio2024SourceBureauofTransportationStatistics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Notes
 - Revenue and customer-level data are intentionally excluded
